@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="fr"></html>
+<head>
+    <meta charset="utf-8">
+    <title>association Bassma</title>  
+    <title>Nos soins palliatifs</title>
+</head>
+
+<body>
+
+    <header><h1 align="center">L'association BASMA pour l'insertion sociale et professionnelle des personnes handicapées</h1></header>
+   <section>
+    <h2>ayez une idée sur note association</h2>
+
+    <img src="c:\Users\user\OneDrive\Bureau\web\centre bassma.jpg" alt="centre Basma" width="720" height="220">
+    <img src="C:\Users\user\OneDrive\Bureau\web\logo basma.jpg" alt="logo Basma" width="720" height="220">
+
+    <br><br><strong>visiter la page facebook de l'association : </strong><a href="https://www.facebook.com/association.basmaa/?locale=fr_FR">notre page facebook</a>
+
+    <h3>nos objectifs :</h3>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Le centre Basma en Tunisie s’engage à améliorer la qualité de vie des personnes handicapées. Situé à Gammarth, il propose des activités culturelles, sportives et récréatives, ainsi que des soins palliatifs (orthophonie et correction de la vision). Des formations professionnelles sont également offertes aux jeunes handicapés âgés entre 15 et 35 ans, visant à renforcer leurs compétences et à les préparer à une vie autonome et productive.</p>
+    <h3>nos activités :</h3>
+
+    <video src="C:\Users\user\Downloads\Tout sur lévènement organisé par lAssociation Basma.mp4" controls ></video>
+
+    <h4>Nos formations :</h4>
+    <article>
+    <p>Le centre Basma en Tunisie propose une variété de formations professionnelles destinées aux personnes handicapées. Voici un aperçu des spécialités couvertes :
+        <br><br><strong>Mosaïque : </strong>Les apprenants peuvent acquérir des compétences dans l’art de la mosaïque, créant des motifs colorés et harmonieux.
+        <br><strong>Gravure sur verre : </strong>Cette formation enseigne les techniques de gravure sur verre, permettant aux participants de créer des pièces uniques
+        <br><strong>Menuiserie : </strong>La formation en menuiserie permet aux apprenants de maîtriser les compétences nécessaires pour travailler le bois et fabriquer des meubles ou des objets.
+        <br><strong>Informatique et maintenance des ordinateurs : </strong>Les participants acquièrent des compétences en informatique, allant de l’utilisation des logiciels à la maintenance matérielle.</p>
+    </article>   
+    </section>
+    <center>
+        <table border="1">
+            <tr>
+                <th colspan="2">Nos soins palliatifs</th>
+            </tr>
+            <tr>
+                <td colspan="2">Les soins palliatifs sont une approche globale qui vise à améliorer la qualité de vie des patients atteints de maladies graves, évoluant ou en phase terminale. Voici ce que le centre Basma propose :</td>
+            </tr>
+            <tr>
+                <td>Orthophonie</td>
+                <td>Le centre offre des séances d’orthophonie pour aider les personnes handicapées à améliorer leur communication, leur langage et leur déglutition. Ces soins visent à atténuer les difficultés liées à la parole et à la déglutition.</td>
+            </tr>
+            <tr>
+                <td>Correction de la vision</td>
+                <td>Les séances de correction de la vision sont essentielles pour les personnes souffrant de troubles visuels. Le centre Basma s’efforce d’améliorer la vision des patients handicapés, ce qui contribue à leur bien-être général.</td>
+            </tr>
+        </table>
+    </center>
+</body>
